@@ -1,4 +1,4 @@
-package br.usjt.arqsw.ccp3anmca_hellospringboot;
+package br.usjt.arqsw.ccp3anmca_aula01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
